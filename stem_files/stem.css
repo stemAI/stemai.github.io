@@ -1165,7 +1165,7 @@ pre.line-numbers > code {
 
 .line-numbers-rows > span:before {
   content: counter(linenumber);
-  color: #999;
+  color: transparent;
   display: block;
   padding-right: 0.8em;
   text-align: right; }
@@ -2057,5 +2057,3 @@ body.the-404 .contain {
   body.the-404 .contain .content, body.the-404 .contain .media {
     display: table-cell;
     vertical-align: middle; }
-
-/*# sourceMappingURL=lumen.css.map */
