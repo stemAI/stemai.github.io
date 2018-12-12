@@ -263,7 +263,7 @@ body input:-webkit-autofill {
 }
 body h1 {
   font-size: 50px;
-  line-height: 1;
+  line-height: 1.2;
 }
 @media (min-width: 1024px) and (max-width: 1240px) {
   body h1 {
@@ -707,10 +707,10 @@ body .hero-banner .v-middle-wrapper .v-middle-inner .tab-part span {
   }
 }
 body .hero-banner .v-middle-wrapper .v-middle-inner .title {
-  max-width: 675px;
+  
   float: left;
-  color: #fff;
-  margin-left: 290px;
+  color: #ffffff;
+  margin-left: 100px;
   margin-top: 160px;
 }
 @media (max-width: 1023px) {
@@ -1122,7 +1122,7 @@ body .project-wrapper .category-list .close-icon {
 }
 body .project-group {
   width: 100%;
-  padding: 149px 0 108px;
+  padding: 73px 0 108px;
 }
 @media (min-width: 1024px) and (max-width: 1240px) {
   body .project-group {
