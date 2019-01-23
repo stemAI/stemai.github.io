@@ -4,4 +4,4 @@
 
 Please feel free to suggest changes and report bugs. 
 
-Join the community Slack channel [here](www.stemai.slack.com).
+Join the community Slack channel [here](https://stemai.slack.com).
