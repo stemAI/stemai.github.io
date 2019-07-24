@@ -1436,9 +1436,9 @@ label {
         display: flex;
     }
     .hero-copy {
-        padding-right: 48px;
+        padding-right: 8px;
         min-width: 512px;
-        width: 512px;
+        width: 1000px;
     }
     .hero-illustration {
         display: block;
