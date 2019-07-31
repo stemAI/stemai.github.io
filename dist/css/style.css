@@ -296,8 +296,8 @@ dd {
 }
 
 img {
-    height: 130px;
-    max-width: 900%;
+    height: 36px;
+    max-width: 100%;
     vertical-align: middle;
 }
 
